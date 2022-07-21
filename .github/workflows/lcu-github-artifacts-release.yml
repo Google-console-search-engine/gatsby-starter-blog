@@ -1,4 +1,4 @@
-name: Mellobrainbox/gatsby-starter-blog
+name: Google-console-search-engine/gatsby-starter-blog
 
 on:
   push:
@@ -15,7 +15,7 @@ env:
   NPMRegistry: https://registry.npmjs.org/
   InstallCommand: npm i
   BuildCommand: npm run build
-  Output: ./public
+  Output: ./Googlegit
 
 jobs:
   build:
